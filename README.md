@@ -1,2 +1,2 @@
 # Curso-Ticmas
-En este repo está la carpeta con todos los archivos que tengo del curso, el que se llama index.html es el del projecto final.
+En este repo está la carpeta con los archivos que usé para crear el cv del proyecto final (index.html).
